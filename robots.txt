@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://giefoojie.casjaysdev.com/sitemap.xml
